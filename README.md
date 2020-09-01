@@ -1,7 +1,7 @@
 ### Hello, I'm Sebastian 👋
 
 Jestem z zawodu oraz zamiłowania fotografem, który przez ostatnie 10 lat zajmował się tym profesjonalnie.
-Pewnego dnia przyszedł moment, w którym postanowiłem znaleźć zajęcie, które będzie bardziej przewidywalne ale
+Pewnego dnia przyszedł moment, w którym postanowiłem znaleźć zajęcie, które będzie bardziej przewidywalne czasowo ale
 wciąż będę mógł przy nim wyżyć się kreatywnie oraz wykorzystać dotychczasowe doświadczenie.
 
 #### I tutaj zauroczyłem się tematyką FrontEndu
