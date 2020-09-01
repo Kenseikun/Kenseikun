@@ -4,7 +4,8 @@ Jestem z zawodu oraz zamiłowania fotografem, który przez ostatnie 10 lat zajmo
 Pewnego dnia przyszedł moment, w którym postanowiłem znaleźć zajęcie, które będzie bardziej przewidywalne ale
 wciąż będę mógł przy nim wyżyć się kreatywnie oraz wykorzystać dotychczasowe doświadczenie.
 
-Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły Coderslab ze specjalizacją w JavaScript oraz React.
+Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły Coderslab ze specjalizacją w JavaScript, React oraz pakietu
+kursów na platformie Udemy wydanej przez Samuraja programowania.
 
 Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video ,znajomość nowych trendów nie tylko w programowaniu
 oraz wiele lat współpracy z innymi osobami sprawiają, że napewno po zdobyciu większego doświadczenia w programowaniu będę mógł łączyć
