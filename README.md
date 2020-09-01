@@ -21,7 +21,7 @@ te umiejętności i mieć na początku przewagę wśród innych programistów.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40">
 
-<img src="https://simpleicons.org/icons/adobephotoshop.svg" height="40">
+<img src="https://simpleicons.org/icons/adobephotoshop.svg" height="40" color="#31A8FF">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kenseikun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=black">
+<img src="https://github-readme-stats.vercel.app/api?username=Kenseikun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
