@@ -16,7 +16,7 @@ te umiejętności i mieć na początku przewagę wśród innych programistów.
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning React & GSAP
-- 👯 I’m looking to collaborate on Junior FrontEnd
+- 👯 I’m looking to collaborate as Junior FrontEnd
 - 💬 Ask me about Photoshop, Lightroom, CaptureOne
 - 📫 How to reach me: ...
 
