@@ -10,7 +10,7 @@ Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły C
 #### JavaScript, React
 oraz pakietu kursów na platformie Udemy wydanej przez Samuraja programowania.
 
-Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video ,znajomość nowych trendów nie tylko w programowaniu
+Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video, znajomość nowych trendów nie tylko w programowaniu
 oraz wiele lat współpracy z innymi osobami sprawiają, że napewno po zdobyciu większego doświadczenia w programowaniu będę mógł łączyć
 te umiejętności i mieć na początku przewagę wśród innych programistów.
 
