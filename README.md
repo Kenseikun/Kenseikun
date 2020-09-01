@@ -18,4 +18,6 @@ te umiejętności i mieć na początku przewagę wśród innych programistów.
 
 <img src="https://simpleicons.org/icons/adobephotoshop.svg" height="30"><img src="https://simpleicons.org/icons/adobelightroomcc.svg" height="30"><img src="https://simpleicons.org/icons/adobepremierepro.svg" height="30">
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Kenseikun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
