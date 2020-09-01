@@ -7,7 +7,7 @@ wciąż będę mógł przy nim wyżyć się kreatywnie oraz wykorzystać dotychc
 #### I tutaj zauroczyłem się tematyką FrontEndu
 
 Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły Coderslab ze specjalizacją w 
-###JavaScript, React
+### JavaScript, React
 oraz pakietu kursów na platformie Udemy wydanej przez Samuraja programowania.
 
 Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video ,znajomość nowych trendów nie tylko w programowaniu
