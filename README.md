@@ -18,3 +18,5 @@ te umiejętności i mieć na początku przewagę wśród innych programistów.
 - 👯 I’m looking to collaborate on Junior FrontEnd
 - 💬 Ask me about Photoshop, Lightroom, CaptureOne
 - 📫 How to reach me: ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kenseikun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
