@@ -4,6 +4,8 @@ Jestem z zawodu oraz zamiłowania fotografem, który przez ostatnie 10 lat zajmo
 Pewnego dnia przyszedł moment, w którym postanowiłem znaleźć zajęcie, które będzie bardziej przewidywalne ale
 wciąż będę mógł przy nim wyżyć się kreatywnie oraz wykorzystać dotychczasowe doświadczenie.
 
+#### I tutaj zauroczyłem się tematyką FrontEndu
+
 Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły Coderslab ze specjalizacją w JavaScript, React oraz pakietu
 kursów na platformie Udemy wydanej przez Samuraja programowania.
 
