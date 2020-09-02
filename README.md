@@ -10,8 +10,7 @@ Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły C
 #### JavaScript, React
 oraz pakietu kursów na platformie Udemy wydanej przez Samuraja programowania.
 
-Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video, znajomość nowych trendów nie tylko w programowaniu
-oraz wiele lat współpracy z innymi osobami sprawiają, że napewno po zdobyciu większego doświadczenia w programowaniu będę mógł łączyć
+Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video, znajomość nowych trendów nie tylko w programowaniu, rozwiązywaniu problemów, kreowanie nowych wizji oraz wiele lat współpracy z innymi osobami sprawiają, że napewno po zdobyciu większego doświadczenia w programowaniu będę mógł łączyć
 te umiejętności i mieć na początku przewagę wśród innych programistów.
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40">
