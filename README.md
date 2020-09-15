@@ -1,17 +1,11 @@
 ### Hello, I'm Sebastian 👋
 
-Jestem z zawodu oraz zamiłowania fotografem, który przez ostatnie 10 lat zajmował się tym profesjonalnie.
-Pewnego dnia przyszedł moment, w którym postanowiłem znaleźć zajęcie, które będzie bardziej przewidywalne czasowo ale
-wciąż będę mógł przy nim wyżyć się kreatywnie oraz wykorzystać dotychczasowe doświadczenie.
+## I've been a photographer all my life, but because I want to develope myslef I graduated from programming school Coders lab as a JavaScript & React Developer
 
-#### I tutaj zauroczyłem się tematyką FrontEndu
+One of the most important skills, I acquired while working in the photography industry is the ability to predict and visualise the end product. Additionally, I can effectively plan my work to determine the end goals and the best results. The above-mentioned skills and experience can be further mastered and used during my career path as fronted programmer. Additionally, as a front-end developer, I bring my aesthetic sense to my work and combine it with current trends through visual thinking. In my current learning experience, I gained an ability to affect the user journey, experience and define new user trends. A believer in constant learning and improvement, I am continually reading about and experimenting with new ways to design better.
 
-Tak zacząłem przygodę z programowaniem co zaowocowało ukończeniem szkoły Coderslab ze specjalizacją: 
-#### JavaScript, React
-oraz pakietu kursów na platformie Udemy wydanej przez Samuraja programowania.
-
-Myślę, że posiadane doświadczenie w obsłudze programów do edycji zdjęć oraz video, znajomość nowych trendów nie tylko w programowaniu, rozwiązywaniu problemów, kreowanie nowych wizji oraz wiele lat współpracy z innymi osobami sprawiają, że napewno po zdobyciu większego doświadczenia w programowaniu będę mógł łączyć
-te umiejętności i mieć na początku przewagę wśród innych programistów.
+I am now looking to leverage the learnt skills at a permanent role with an exceptional
+organisation with creative front end development opportunities
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40">
 
