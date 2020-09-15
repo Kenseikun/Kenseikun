@@ -1,6 +1,6 @@
 ### Hello, I'm Sebastian 👋
 
-#### I've been a photographer all my life, but I always want to develope myslef I graduated from programming school Coders lab as a JavaScript & React Developer
+#### I've been a photographer all my life, but I always want to develope myslef. I graduated from programming school Coders lab as a JavaScript & React Developer
 
 One of the most important skills, I acquired while working in the photography industry is the ability to predict and visualise the end product. Additionally, I can effectively plan my work to determine the end goals and the best results. The above-mentioned skills and experience can be further mastered and used during my career path as fronted programmer. Additionally, as a front-end developer, I bring my aesthetic sense to my work and combine it with current trends through visual thinking. In my current learning experience, I gained an ability to affect the user journey, experience and define new user trends. A believer in constant learning and improvement, I am continually reading about and experimenting with new ways to design better.
 
